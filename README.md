@@ -13,10 +13,10 @@ This is a full-stack **CRUD (Create, Read, Update, Delete)** application built u
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS (or Bootstrap/CSS Modules)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (using Mongoose)
-- **Tools**: Postman for API testing, Git & GitHub for version control
+- **Frontend**: React.js, Tailwind CSS (or Bootstrap/CSS Modules).
+- **Backend**: Node.js, Express.js.
+- **Database**: MongoDB (using Mongoose).
+- **Tools**: Postman for API testing, Git & GitHub for version control.
 
 ## 📁 Folder Structure
 
